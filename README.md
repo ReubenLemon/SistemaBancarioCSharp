@@ -12,8 +12,8 @@ Este proyecto tiene como objetivo desarrollar un sistema bancario básico utiliz
 
 ![Captura de pantalla del sistema bancario](https://www.unotv.com/uploads/2022/09/que-es-el-sistema-financiero-banxico-explica-su-funcion-161949.jpg)
 
-## Instalación
+## Enlaces auxiliares
 
-1. Clonar el repositorio:
+1. 
    ```bash
    git clone https://github.com/tu-usuario/SistemaBancarioCSharp.git
