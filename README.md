@@ -14,5 +14,6 @@ Este proyecto tiene como objetivo desarrollar un sistema bancario básico utiliz
 
 ## Enlaces auxiliares
 
-1.  ```bash
+1.
+  ```bash
    git clone https://github.com/tu-usuario/SistemaBancarioCSharp.git
