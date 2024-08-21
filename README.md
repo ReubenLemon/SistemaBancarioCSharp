@@ -10,7 +10,7 @@ Este proyecto tiene como objetivo desarrollar un sistema bancario básico utiliz
 
 ## Captura de Pantalla
 
-![Captura de pantalla del sistema bancario](https://via.placeholder.com/800x400.png)
+![Captura de pantalla del sistema bancario](https://www.unotv.com/uploads/2022/09/que-es-el-sistema-financiero-banxico-explica-su-funcion-161949.jpg)
 
 ## Instalación
 
